@@ -12,8 +12,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=nip3000&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nip3000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![snake gif](https://github.com/nip3000/nip3000/blob/output/github-contribution-grid-snake.svg)
-![readme](https://github-readme-stats.vercel.app/api/pin/?username=nip3000&repo=nip3000&theme=react)](https://github.com/nip3000/nip3000)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nip3000/nip3000/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nip3000/nip3000/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nip3000/nip3000/output/github-contribution-grid-snake.svg">
+</picture>
+
+## ![snake gif](https://github.com/nip3000/nip3000/blob/output/github-contribution-grid-snake.svg)
+## ![readme](https://github-readme-stats.vercel.app/api/pin/?username=nip3000&repo=nip3000&theme=react)](https://github.com/nip3000/nip3000)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nip3000&theme=radical&no-frame=false&no-bg=false&margin-w=4)
